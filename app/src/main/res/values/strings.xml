@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">7MinuteWorkout</string>
+    <string name="start_image">start image</string>
+    <string name="_30">30</string>
+    <string name="get_ready_for">GET READY FOR</string>
+    <string name="upcoming_activity">Upcoming Activity</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="this_will_stop_yor_workout_you_ve_come_this_far_are_you_sure_you_want_to_quit">This will stop yor workout. You\'ve come this far, are you sure you want to quit</string>
+    <string name="are_you_sure">Are You Sure?</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Calculator</string>
+    <string name="us_units">US UNITS</string>
+    <string name="inch">Inch</string>
+    <string name="weight_in_pounds">WEIGHT (in pounds)</string>
+</resources>
